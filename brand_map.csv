@@ -1,0 +1,168 @@
+Code,Name,Type
+ACR,Acer,Both
+ECS,Elitegroup,Both
+ACI,Asus,Monitor
+ACT,Targa,Monitor
+ADI,ADI,Monitor
+AIC,AG Neovo,Monitor
+AMW,AMW,Monitor
+AOC,AOC,Monitor
+APP,Apple,Both
+ART,ArtMedia,Monitor
+ASU,Asus,Both
+AST,AST,Monitor
+AUO,AU Optronics,Monitor
+AVI,Avixe,Monitor
+AWS,Amazon,Both
+BBY,Insignia,Monitor
+BNQ,BenQ,Monitor
+BOE,BOE,Monitor
+BTC,Behavior Tech Computer,Monitor
+BYD,BYD,Both
+CDT,IBM,Monitor
+CEI,Crestron,Monitor
+CFG,Atlantis,Monitor
+CMN,Chi Mei,Monitor
+CMO,Chi Mei,Monitor
+COL,Colorful,Both
+COM,Comtrol,Monitor
+CPQ,Compaq,Both
+CRO,Corollary,Monitor
+CPT,Chunghwa Picture Tubes,Monitor
+CTX,CTX,Monitor
+DEL,Dell,Both
+DAP,Dahua,Both
+DIG,Digital China,Both
+DPC,Delta,Monitor
+DSC,Daewoo,Monitor
+DWE,Daewoo,Monitor
+EIZ,Eizo,Monitor
+ELO,Elo Touch,Monitor
+EMC,eMachines,Monitor
+ENC,Eizo,Monitor
+EPI,Envision,Monitor
+EPS,Epson,Monitor
+EVG,EVGA,Both
+FNI,Funai,Monitor
+FOU,Founder,Both
+FUJ,Fujitsu,Both
+FUS,Fujitsu Siemens,Monitor
+GET,GITSTAR,Both
+GIG,Gigabyte,Both
+GSM,LG,Monitor
+GWC,Great Wall,Both
+GWY,Gateway,Both
+H3C,H3C,Both
+HEC,Hisense,Monitor
+HKC,HKC,Monitor
+HIT,Hitachi,Monitor
+HON,Honor,Both
+HSE,Hasee,Both
+HSL,Hansol,Monitor
+HPC,HP,Both
+HPN,HP,Monitor
+HUA,Huawei,Both
+HWP,HP,Both
+HSD,HannStar,Monitor
+HTC,HTC,Both
+HYO,Hyundai,Monitor
+IBM,IBM,Both
+ICL,Fujitsu ICL,Monitor
+IFS,InFocus,Monitor
+INL,Innolux,Monitor
+INS,Inspur,Both
+IOD,I-O Data,Monitor
+IVO,InfoVision,Monitor
+IVM,Iiyama,Monitor
+JVC,JVC,Monitor
+KDS,KDS,Monitor
+KDX,Kedacom,Both
+KPT,Kopin,Monitor
+KTC,KTC,Monitor
+LEN,Lenovo,Both
+LGD,LG Display,Monitor
+LGE,LG,Monitor
+LPL,LG Display,Monitor
+LXN,Lexin,Both
+MAG,MAG Innovision,Monitor
+MAX,Maxdata,Monitor
+MCP,Magni Systems,Monitor
+MCR,Mechrevo,Both
+MEC,Mercury,Both
+MEI,Panasonic,Monitor
+MEL,Mitsubishi Electric,Monitor
+MED,Medion,Monitor
+MIR,Miro,Monitor
+MJI,Marantz,Monitor
+MKN,Machenike,Both
+MSF,Microsoft,Host
+MSI,MSI,Both
+MTC,Mitac,Monitor
+NCR,NCR,Both
+NAN,Nanao,Monitor
+NEC,NEC,Monitor
+NOK,Nokia,Monitor
+NVD,NVIDIA,Monitor
+ONK,Onkyo,Monitor
+OPT,Optoma,Monitor
+OQI,Optiquest,Monitor
+OVR,Oculus,Monitor
+PAR,Panasonic,Both
+PBN,Packard Bell,Monitor
+PCO,Pico,Both
+PCK,Daewoo,Monitor
+PHL,Philips,Monitor
+PIO,Pioneer,Monitor
+PLN,Planar,Monitor
+PNR,Planar,Monitor
+PTS,Princeton,Monitor
+QDS,Quanta Display,Monitor
+QIM,QiMing,Both
+QIH,Qihoo 360,Both
+QIL,Qilinsec,Both
+QUA,Quanta,Both
+SGN,Sugon,Both
+RUI,Ruijie,Both
+RAZ,Razer,Both
+SAM,Samsung,Both
+SDC,Samsung Display,Monitor
+SEC,Samsung,Monitor
+SGI,Silicon Graphics,Monitor
+SII,Silicon Image,Monitor
+SHP,Sharp,Monitor
+SNI,Siemens Nixdorf,Monitor
+SNY,Sony,Monitor
+SPT,Sceptre,Monitor
+SRC,Shamrock,Monitor
+STN,Samtron,Monitor
+SUN,Sun Microsystems,Monitor
+SUP,Supermicro,Both
+SYN,Synaptics,Monitor
+TAT,Tatung,Monitor
+TCL,TCL,Monitor
+THT,Tongfang,Both
+TNB,Thunderobot,Both
+TOW,Topway,Both
+TOP,Topview,Monitor
+TOS,Toshiba,Both
+TPV,TPV,Monitor
+TRL,Royal,Monitor
+TSB,Toshiba,Monitor
+TWS,Tsinghua Tongfang,Both
+UNI,Unisplendour,Both
+UNM,Unisys,Monitor
+VIT,Vastdata,Both
+VND,Venus,Both
+VSC,ViewSonic,Monitor
+VSD,ViewSonic,Monitor
+VIZ,Vizio,Monitor
+WAP,Walton,Both
+WAC,Wacom,Monitor
+WDE,Westinghouse,Monitor
+WYD,Wingtech,Both
+YDH,Yidonghua,Both
+XER,Xerox,Monitor
+XMI,Xiaomi,Both
+ZTE,ZTE,Both
+ZCM,Zcom,Monitor
+ZOW,Zowie,Monitor

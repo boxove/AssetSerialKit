@@ -1,0 +1,11 @@
+Key,Enabled,Description
+CollectActivation,1,Collect Windows activation status and license channel
+CollectBoardMemory,1,Collect motherboard serial and memory module details
+CollectGpu,1,Collect graphics card model and video memory
+CollectLocalAdmins,1,Collect local administrators group members
+CollectDisk,1,Collect disk model and disk serial number
+CollectVolume,1,Collect C drive capacity and free space
+CollectBitLocker,1,Collect BitLocker protection status
+CollectNetwork,1,Collect IPv4 and MAC address
+OpenOutputFolder,1,Open output folder after local collection
+SummaryDeduplicate,1,Keep latest record per host when merging summary
